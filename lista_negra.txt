@@ -1,0 +1,86 @@
+5.105.220.0,Malware Hosting
+5.133.101.0,Brute Force Attacker
+5.183.60.0,Scanning
+5.188.236.0,Botnet C2 Server
+5.230.195.0,Phishing
+5.252.153.0,Malware Hosting
+10.0.0.0,Intento de acceso no autorizado
+14.102.240.0,Brute Force Attacker
+14.128.32.0,Botnet C2 Server
+14.128.48.0,Scanning
+14.152.94.0,Malware Hosting
+14.192.20.0,Phishing
+23.129.252.0,Brute Force Attacker
+23.132.164.0,Botnet C2 Server
+23.137.100.0,Scanning
+23.146.240.0,Malware Hosting
+23.146.242.0,Phishing
+23.147.52.0,Botnet C2 Server
+23.147.148.0,Brute Force Attacker
+23.147.156.0,Scanning
+23.147.164.0,Malware Hosting
+23.148.144.0,Phishing
+23.164.152.0,Botnet C2 Server
+23.172.112.0,Brute Force Attacker
+23.176.184.0,Scanning
+23.235.128.0,Malware Hosting
+23.247.176.0,Phishing
+24.137.16.0,Botnet C2 Server
+24.170.208.0,Brute Force Attacker
+24.233.0.0,Scanning
+24.236.0.0,Malware Hosting
+27.34.176.0,Phishing
+27.50.63.0,Botnet C2 Server
+27.98.192.0,Brute Force Attacker
+27.99.128.0,Scanning
+27.100.4.0,Malware Hosting
+27.100.28.0,Phishing
+27.112.32.0,Botnet C2 Server
+27.112.96.0,Brute Force Attacker
+27.116.56.0,Scanning
+27.123.208.0,Malware Hosting
+27.123.224.0,Phishing
+27.124.0.0,Botnet C2 Server
+27.126.160.0,Brute Force Attacker
+27.146.0.0,Scanning
+27.255.85.0,Malware Hosting
+31.56.209.0,Phishing
+31.57.184.0,Botnet C2 Server
+31.57.216.0,Brute Force Attacker
+31.129.49.0,Scanning
+31.217.252.0,Malware Hosting
+31.222.236.0,Phishing
+36.0.8.0,Botnet C2 Server
+36.0.128.0,Brute Force Attacker
+36.37.32.0,Scanning
+36.37.48.0,Malware Hosting
+36.116.0.0,Phishing
+36.119.0.0,Botnet C2 Server
+36.255.97.0,Brute Force Attacker
+36.255.98.0,Scanning
+36.255.136.0,Malware Hosting
+36.255.216.0,Phishing
+36.255.236.0,Botnet C2 Server
+37.49.148.0,Brute Force Attacker
+37.72.140.0,Scanning
+37.77.150.0,Malware Hosting
+37.140.251.0,Phishing
+37.156.64.0,Botnet C2 Server
+38.18.13.0,Brute Force Attacker
+38.92.184.0,Scanning
+38.107.120.0,Malware Hosting
+38.182.0.0,Phishing
+40.183.136.0,Botnet C2 Server
+41.71.128.0,Brute Force Attacker
+41.231.240.0,Scanning
+42.0.32.0,Malware Hosting
+42.0.128.0,Phishing
+42.99.116.0,Botnet C2 Server
+42.128.0.0,Brute Force Attacker
+42.160.0.0,Scanning
+42.208.0.0,Malware Hosting
+43.225.28.0,Phishing
+43.226.17.0,Botnet C2 Server
+43.227.230.0,Brute Force Attacker
+8.8.8.8,Phishing
+1.1.1.1,Botnet C2 Server

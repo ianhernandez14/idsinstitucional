@@ -1,0 +1,12 @@
+[2026-06-07 20:06:25] IP: 192.168.1.188 visito el sitio: _raop._tcp.local
+[2026-06-07 20:06:25] IP: 192.168.1.199 visito el sitio: www.virustotal.com
+[2026-06-07 20:06:25] IP: 192.168.1.199 visito el sitio: www.virustotal.com
+[2026-06-07 20:06:27] IP: 192.168.1.190 visito el sitio: _spotify-connect._tcp.local
+[2026-06-07 20:06:27] IP: 192.168.1.199 visito el sitio: www.virustotal.com
+[2026-06-07 20:06:30] IP: 192.168.1.199 visito el sitio: smtp.gmail.com
+[2026-06-07 20:06:30] IP: 192.168.1.199 visito el sitio: smtp.gmail.com
+[2026-06-07 20:06:30] IP: 192.168.1.199 visito el sitio: www.virustotal.com
+[2026-06-07 20:06:34] IP: 192.168.1.188 visito el sitio: _raop._tcp.local
+[2026-06-07 20:06:47] IP: 192.168.1.199 visito el sitio: whois.apnic.net
+[2026-06-07 20:06:47] IP: 192.168.1.199 visito el sitio: whois.apnic.net
+[2026-06-07 20:06:47] IP: 192.168.1.199 visito el sitio: www.virustotal.com
